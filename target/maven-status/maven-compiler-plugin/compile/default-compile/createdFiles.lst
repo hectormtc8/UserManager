@@ -1,0 +1,8 @@
+com\technical\practices\utils\JWTUtil.class
+com\technical\practices\models\User.class
+com\technical\practices\controllers\AuthController.class
+com\technical\practices\dao\UserDao.class
+com\technical\practices\dao\UserDaoImp.class
+com\technical\practices\ServletInitializer.class
+com\technical\practices\controllers\UserController.class
+com\technical\practices\PracticesApplication.class
